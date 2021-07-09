@@ -1,3 +1,4 @@
+require 'set'
 require 'appraisal/dependency'
 
 module Appraisal
